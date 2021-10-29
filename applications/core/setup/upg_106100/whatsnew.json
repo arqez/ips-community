@@ -1,0 +1,62 @@
+{
+    "10a2fd101766dc9a2207de6fe9b26605": {
+        "feature_id": 1,
+        "feature_title": "Statistics Dashboard",
+        "feature_text": "4.5 introduces an intuitive new way to monitor trends and identify areas of opportunity to grow your community even further.",
+        "feature_url": "https:\/\/invisioncommunity.com\/news\/product-updates\/45-identify-statistical-trends-r1184",
+        "feature_version_added": 106100,
+        "feature_app": "core",
+        "feature_unique_key": "10a2fd101766dc9a2207de6fe9b26605",
+        "feature_image": "statistics-dashboard.jpeg"
+    },
+    "86e225a4e298c1214910481543eaa6c0": {
+        "feature_id": 2,
+        "feature_title": "Stock Photo Picker",
+        "feature_text": "Choosing royalty-free stock images for use throughout your community is now easier than ever!",
+        "feature_url": "https:\/\/invisioncommunity.com\/news\/product-updates\/45-simple-stock-photo-picker-r1177\/",
+        "feature_version_added": 106100,
+        "feature_app": "core",
+        "feature_unique_key": "86e225a4e298c1214910481543eaa6c0",
+        "feature_image": "stock-photo-picker.jpeg"
+    },
+    "7727b7a3d88ce6560ee5c3489613d4b4": {
+        "feature_id": 3,
+        "feature_title": "Marketplace",
+        "feature_text": "As of 4.5.0, you can now browse the Marketplace and install applications, themes and language packs without leaving your AdminCP.",
+        "feature_url": "https:\/\/invisioncommunity.com\/news\/product-updates\/45-one-more-thing-r1204\/",
+        "feature_version_added": 106100,
+        "feature_app": "core",
+        "feature_unique_key": "7727b7a3d88ce6560ee5c3489613d4b4",
+        "feature_image": "marketplace.jpeg"
+    },
+    "0979924f424203e725871b66acd3ae20": {
+        "feature_id": 4,
+        "feature_title": "Sign in with Apple",
+        "feature_text": "Signing in to Invision Community just became even easier with support for signing in using your Apple ID.",
+        "feature_url": "https:\/\/invisioncommunity.com\/news\/product-updates\/45-sign-in-with-apple-r1207",
+        "feature_version_added": 106100,
+        "feature_app": "core",
+        "feature_unique_key": "0979924f424203e725871b66acd3ae20",
+        "feature_image": "sign-in-with-apple.jpeg"
+    },
+    "43dba6ba80eab0da77d21cce7248a108": {
+        "feature_id": 5,
+        "feature_title": "Topic View Summary",
+        "feature_text": "Numerous improvements have been made to the user interface when viewing topics to make finding key posts within a topic easier.",
+        "feature_url": "https:\/\/invisioncommunity.com\/news\/product-updates\/45-topic-view-summary-and-more-r1191",
+        "feature_version_added": 106100,
+        "feature_app": "core",
+        "feature_unique_key": "43dba6ba80eab0da77d21cce7248a108",
+        "feature_image": "topic-view-summary.jpeg"
+    },
+    "2f3388fb579a7333e6914422c3772729": {
+        "feature_id": 6,
+        "feature_title": "Forum View Updates",
+        "feature_text": "An attractive new \"grid\" view has been introduced for displaying your forums, and an \"expanded\" view has been implemented when viewing lists of topics, allowing new ways to display and showcase your content.",
+        "feature_url": "https:\/\/invisioncommunity.com\/news\/product-updates\/45-forum-view-updates-r1193",
+        "feature_version_added": 106100,
+        "feature_app": "core",
+        "feature_unique_key": "2f3388fb579a7333e6914422c3772729",
+        "feature_image": "forum-view-updates.jpeg"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "core": {
+        "RssImport": {
+            "RssImport": "IPS\\forums\\extensions\\core\\RssImport\\RssImport"
+        },
+        "ContentRouter": {
+            "Topics": "IPS\\forums\\extensions\\core\\ContentRouter\\Topics"
+        },
+        "LiveSearch": {
+            "Forums": "IPS\\forums\\extensions\\core\\LiveSearch\\Forums"
+        },
+        "ContentModeratorPermissions": {
+            "Topics": "IPS\\forums\\extensions\\core\\ContentModeratorPermissions\\Topics"
+        },
+        "FileStorage": {
+            "Cards": "IPS\\forums\\extensions\\core\\FileStorage\\Cards",
+            "Icons": "IPS\\forums\\extensions\\core\\FileStorage\\Icons"
+        },
+        "Announcements": {
+            "Forums": "IPS\\forums\\extensions\\core\\Announcements\\Forums"
+        },
+        "EditorLocations": {
+            "Forums": "IPS\\forums\\extensions\\core\\EditorLocations\\Forums"
+        },
+        "Permissions": {
+            "Permissions": "IPS\\forums\\extensions\\core\\Permissions\\Permissions"
+        },
+        "CreateMenu": {
+            "Topic": "IPS\\forums\\extensions\\core\\CreateMenu\\Topic"
+        },
+        "Queue": {
+            "DeleteLegacyTopics": "IPS\\forums\\extensions\\core\\Queue\\DeleteLegacyTopics",
+            "TopicStarterIds": "IPS\\forums\\extensions\\core\\Queue\\TopicStarterIds",
+            "DeleteLegacyPosts": "IPS\\forums\\extensions\\core\\Queue\\DeleteLegacyPosts",
+            "HiddenFirstPost": "IPS\\forums\\extensions\\core\\Queue\\HiddenFirstPost",
+            "RebuildSolvedIndex": "IPS\\forums\\extensions\\core\\Queue\\RebuildSolvedIndex",
+            "RebuildNewTopicFlag": "IPS\\forums\\extensions\\core\\Queue\\RebuildNewTopicFlag"
+        },
+        "MobileNavigation": {
+            "Topics": "IPS\\forums\\extensions\\core\\MobileNavigation\\Topics",
+            "Forums": "IPS\\forums\\extensions\\core\\MobileNavigation\\Forums"
+        },
+        "OverviewStatistics": {
+            "Solved": "IPS\\forums\\extensions\\core\\OverviewStatistics\\Solved"
+        },
+        "FrontNavigation": {
+            "Forums": "IPS\\forums\\extensions\\core\\FrontNavigation\\Forums"
+        },
+        "MemberSync": {
+            "Forums": "IPS\\forums\\extensions\\core\\MemberSync\\Forums"
+        },
+        "BBCode": {
+            "post": "IPS\\forums\\extensions\\core\\BBCode\\post",
+            "topic": "IPS\\forums\\extensions\\core\\BBCode\\topic",
+            "snapback": "IPS\\forums\\extensions\\core\\BBCode\\snapback"
+        },
+        "AdvertisementLocations": {
+            "IndexView": "IPS\\forums\\extensions\\core\\AdvertisementLocations\\IndexView",
+            "TopicView": "IPS\\forums\\extensions\\core\\AdvertisementLocations\\TopicView",
+            "ForumListing": "IPS\\forums\\extensions\\core\\AdvertisementLocations\\ForumListing"
+        },
+        "AchievementAction": {
+            "AnswerMarkedBest": "IPS\\forums\\extensions\\core\\AchievementAction\\AnswerMarkedBest"
+        }
+    }
+}
